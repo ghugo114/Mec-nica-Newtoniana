@@ -4,6 +4,7 @@ Email: gaston.hugo@gmail.com
 Material en pdf disponible en: 
 
 https://gastonhugo.wixsite.com/cursos
+
 https://sites.google.com/view/gastonhugocomputaconal/home
 
 Comienza el programa que simula el movimiento de un proyectil con
